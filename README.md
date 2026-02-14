@@ -1,101 +1,70 @@
 <p align="center">
-  <img src="main-research-logo.jpg" width="250">
+  <img src="main-research.png" width="220">
 </p>
 
-# Om Chitlangia
+# Om Chitlangia  
+Founder — Main Research (Sole Proprietorship)
 
-Founder & Sole Proprietor — **Main Research**
-
-Quantitative systems. Financial structure. Measured risk.
-
----
-
-## About
-
-I design and build quantitative research systems focused on financial markets.
-
-Operating under **Main Research**, an independent research entity structured as a sole proprietorship.
-
-My work sits at the intersection of:
-
-- Derivatives pricing
-- Statistical modeling
-- Numerical methods
-- Financial infrastructure
-- Systematic research design
-
-This profile serves as a public research ledger.
+Quantitative systems for financial markets.
 
 ---
 
-## Research Focus
+## Snapshot
 
-- Implied Volatility Modeling  
-- Error structure analysis across moneyness & maturity  
-- Binomial & Monte Carlo convergence studies  
-- Asset distribution modeling  
-- Alternative data in credit modeling  
-- Probabilistic system design  
-
----
-
-## Current Work
-
-- Implied Volatility Surface Framework (Python)
-- Alternative Data Credit Rating Model
-- Financial Forecasting Engine
-- Production-grade SaaS architecture systems
-- Infrastructure learning: AWS, containerization, deployment environments
+- 3+ derivatives pricing implementations (Binomial, Monte Carlo, BSM)
+- Volatility surface modeling across moneyness × maturity grids
+- Numerical convergence testing & error structure analysis
+- Alternative data feature engineering for credit modeling
+- Production deployment experience (Vercel / Netlify + SSL + DNS)
 
 ---
 
-## Technical Stack
+## What I Actually Build
 
-### Core
-- Python
-- SQL
-- Git
-- Linux environment
+**Volatility Modeling Framework**
+- Implied volatility extraction
+- Surface behavior diagnostics
+- Error mapping by strike & maturity
+- Stability testing across parameter shifts
 
-### Quantitative & Statistical
-- NumPy
-- Pandas
-- SciPy
-- Statsmodels
-- scikit-learn
-- Custom numerical method implementations
+**Alternative Data Credit Model**
+- Feature pipeline design
+- Statistical testing
+- Model validation & residual analysis
 
-### Infrastructure & Systems
-- Vercel / Netlify deployment
-- Domain & SSL configuration
-- AWS (in progress)
-- Docker (in progress)
+**Financial Systems**
+- Python-based forecasting engines
+- Structured research environments
+- Deployment-ready SaaS architecture foundations
 
 ---
 
-## Philosophy
+## Technical Base
 
-Research first.  
-Reproducibility always.  
-Assumptions explicit.  
-Noise eliminated.
+**Core**
+Python · SQL · Git · Linux
 
-Systems over hype.
+**Quant Stack**
+NumPy · Pandas · SciPy · Statsmodels · scikit-learn
 
----
-
-## Structure
-
-Main Research operates independently.  
-All development and research published here is authored and maintained solely by me.
+**Infra**
+AWS (in progress) · Docker (in progress) · DNS/SSL configuration
 
 ---
 
-## Contact
+## Operating Principles
 
-Open to collaboration in:
+- Explicit assumptions
+- Measurable outputs
+- Controlled model behavior
+- No ornamental complexity
 
-- Quantitative research
-- Financial modeling
-- Analytical system design
-- System architecture discussions
+---
+
+## Current Direction
+
+Building Main Research into a structured quantitative lab focused on:
+
+- Volatility modeling
+- Market structure inefficiencies
+- Systematic financial tooling
