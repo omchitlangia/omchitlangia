@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/main-research-logo.png" width="250">
+  <img src="main-research-logo.jpg" width="250">
 </p>
 
 # Om Chitlangia
