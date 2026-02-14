@@ -99,6 +99,3 @@ Open to collaboration in:
 - Financial modeling
 - Analytical system design
 - System architecture discussions
-
-- ⚡ Fun fact: ...
--->
